@@ -8,7 +8,7 @@ const { safeAreaInsets } = uni.getSystemInfoSync()
     <!-- logo文字 -->
     <view class="logo">
       <image class="logo-image" src="@/static/images/logo.png"></image>
-      <text class="logo-text">新鲜 - 美味 - 便捷</text>
+      <text class="logo-text">新鲜 - 好用 - 便捷</text>
     </view>
     <view class="search">
       <text class="icon-search">搜索商品</text>
