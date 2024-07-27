@@ -40,4 +40,5 @@ const fakeDatas = {
       },
     ],
   },
+  '/member/profile': {},
 }
